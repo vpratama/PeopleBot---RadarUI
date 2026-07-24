@@ -1,0 +1,5 @@
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'JetBrains Mono', 'Consolas', monospace; background: #080a0f; color: #cde; overflow: hidden; }
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-thumb { background: #1a3a2a; border-radius: 3px; }
